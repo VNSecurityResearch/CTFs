@@ -1,18 +1,22 @@
-# zzzz write-ups
+# 0x0000 CTF write-ups
 
-* <https://teaser.insomnihack.ch/>
-* [Scoreboard](https://teaser.insomnihack.ch/scoreboard)
+* <https://linkctf.com>
+* [Scoreboard](https://linkctf.com/scoreboard)
 
 ## Completed write-ups
 
-* [YNOS](ynos)
+* [Chal 1](#)
+* [Chal 2](#)
+* [Chal 3](#)
 
 ## External write-ups only
 
-* [Baby Haskell](baby-haskell)
-* [Elysium ropchain](elysium-ropchain)
-* [Interview](interview)
+* [Chal 1](#)
+* [Chal 2](#)
+* [Chal 3](#)
 
 ## Missing write-ups
 
-* [APRS/331](aprs-331)
+* [Chal 1](#)
+* [Chal 2](#)
+* [Chal 3](#)

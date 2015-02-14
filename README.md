@@ -1,3 +1,3 @@
 ﻿# CTFs
 
-Just some CTFs write-ups
+Just is some CTFs write-ups archive.
