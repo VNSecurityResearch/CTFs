@@ -16,5 +16,5 @@ Here are some samples to write write-ups.
                   |--\README.md
 ```
 
-* contest root README.md: [sample 1](/contest/README.md).
-* challenge README.md: [sample 2](/contest/challenge/README.md).
+* contest root README.md: [sample 1](https://github.com/sft-hardwork/CTFs/blob/master/resources/contest/README.md).
+* challenge README.md: [sample 2](https://github.com/sft-hardwork/CTFs/blob/master/resources/contest/challenge/README.md).
