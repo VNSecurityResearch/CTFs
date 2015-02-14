@@ -29,8 +29,8 @@ These rules exist to keep the repo maintainable and complete. Please consider fo
 	- Add another `Alternative write-up` section above the `Other write-ups and resources` section
 3. Do not add files that have a filesize bigger than 15MB to keep the repo relatively small. Upload the file instead to a service or reference it from somewhere else.
 4. Consider following these [committing rules](https://atom.io/docs/latest/contributing#git-commit-messages). For this repo, we like to use these [emojis](http://www.emoji-cheat-sheet.com/):
-	* :memo: when adding a writeup to the `Write-up` section of a task
-	* :floppy_disk: when adding resources for a task, e.g. files or scripts
-	* :link: when adding a writeup link to the `Other write-ups and resources` section of a task
-	* :pill: when fixing broken links or corrupt Markup stuff
-	* :books: when updating the structure of this repo or adding a ctf skeleton structure
+	* :memo: `:memo:` when adding a writeup to the `Write-up` section of a task
+	* :floppy_disk: `:floppy_disk:` when adding resources for a task, e.g. files or scripts
+	* :link: `:link:` when adding a writeup link to the `Other write-ups and resources` section of a task
+	* :pill: `:pill:` when fixing broken links or corrupt Markup stuff
+	* :books: `:books:` when updating the structure of this repo or adding a ctf skeleton structure
