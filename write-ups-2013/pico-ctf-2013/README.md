@@ -13,6 +13,9 @@
 * [First Contact](first-contact)
 * [Try Them All!](try-them-all)
 * [GETKey](getkey)
+* [Spaceport Map](spaceport-map)
+* [Bitwise](bitwise)
+* [Yummy](yummy)
 
 ## External write-ups only
 
@@ -20,8 +23,5 @@
 
 ## Missing write-ups
 
-* [Spaceport Map](spaceport-map)
-* [Bitwise](bitwise)
-* [Yummy](yummy)
 * [Byte Code](byte-code)
 * [CFG to C](cfg-to-c)
