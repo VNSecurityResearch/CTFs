@@ -1,28 +1,20 @@
-# PicoCTF 2013: Failure To Boot
+# PicoCTF 2013: Bitwise
 
-**Category:** Trivival
-**Points:** 20
+**Category:** ACM
+**Points:** 55
 **Description:**
 
-> After opening the robot's front panel and looking inside, you discover a small red button behind a tangle of wires. Pressing the button lights up the robot's primary screen. It glows black and quickly flashes blue. A line of small text types out:
+> You see the doors to the loading bay of the hangar, but they are locked. However, you are able to extract the password verification program from the control panel... Can you find the password to gain access to the loading bay?
 >
-> ```ERROR: 0x00000023```
+> Available in [Python](https://2013.picoctf.com/problems/bit.py) or [Java](https://2013.picoctf.com/problems/Bit.java)
 >
-> The text refreshes and displays the prompt:
->
-> 	FILE SYSTEM RECOVERY INITIATED...
->
-> 	FILE SYSTEM COULD NOT BE IDENTIFIED...
->
-> 	PLEASE ENTER FILE SYSTEM FORMAT:
+> offline files: [Python](bitwise.py) | [Java](bitwise.java)
 
 ## Write-up
 
-Google keyword `ERROR: 0x00000023` for several results.
+(TODO)
 
-And: `STOP 0x00000023 : FAT_FILE_SYSTEM` - a problem with file "Fastfat.sys".
-
-**Answer:** FAT
+**Answer:** none yet
 
 ## Other write-ups and resources
 

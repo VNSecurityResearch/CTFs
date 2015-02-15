@@ -1,20 +1,10 @@
-# PicoCTF 2013: Failure To Boot
+# PicoCTF 2013: CFG to C
 
-**Category:** Trivival
-**Points:** 20
+**Category:** ACM
+**Points:** 70
 **Description:**
 
-> After opening the robot's front panel and looking inside, you discover a small red button behind a tangle of wires. Pressing the button lights up the robot's primary screen. It glows black and quickly flashes blue. A line of small text types out:
->
-> ```ERROR: 0x00000023```
->
-> The text refreshes and displays the prompt:
->
-> 	FILE SYSTEM RECOVERY INITIATED...
->
-> 	FILE SYSTEM COULD NOT BE IDENTIFIED...
->
-> 	PLEASE ENTER FILE SYSTEM FORMAT:
+> Wouldn't it be cool to be able to have one of these patrol drones to do your bidding?! Figure out the correct sequence of C functions from the following [control flow graphs](https://2013.picoctf.com/problems/match.html) and you should be well on your way.
 
 ## Write-up
 

@@ -1,28 +1,18 @@
-# PicoCTF 2013: Failure To Boot
+# PicoCTF 2013: Byte Code
 
-**Category:** Trivival
-**Points:** 20
+**Category:** ACM
+**Points:** 70
 **Description:**
 
-> After opening the robot's front panel and looking inside, you discover a small red button behind a tangle of wires. Pressing the button lights up the robot's primary screen. It glows black and quickly flashes blue. A line of small text types out:
+> You need to authenticate with the guard to gain access to the loading bay! Enter the root password from the vault application to retrieve the passkey! [This](https://2013.picoctf.com/autoproblems/tmpBPWe7T.zip) class file is the executable for the vault application.
 >
-> ```ERROR: 0x00000023```
->
-> The text refreshes and displays the prompt:
->
-> 	FILE SYSTEM RECOVERY INITIATED...
->
-> 	FILE SYSTEM COULD NOT BE IDENTIFIED...
->
-> 	PLEASE ENTER FILE SYSTEM FORMAT:
+> [offline file](tmpBPWe7T.zip)
 
 ## Write-up
 
-Google keyword `ERROR: 0x00000023` for several results.
+(TODO)
 
-And: `STOP 0x00000023 : FAT_FILE_SYSTEM` - a problem with file "Fastfat.sys".
-
-**Answer:** FAT
+**Answer:** none yet
 
 ## Other write-ups and resources
 
