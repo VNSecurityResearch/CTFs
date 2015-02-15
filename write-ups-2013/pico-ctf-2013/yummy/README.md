@@ -12,7 +12,7 @@
 
 `Ctrl+U` > viewsource:
 
-```html5
+```html
 <div style="position: relative; width: 728px; margin: auto;">
 <h1>Docking Bay Ship Status</h1>
 
