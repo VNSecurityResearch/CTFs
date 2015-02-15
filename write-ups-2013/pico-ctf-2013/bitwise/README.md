@@ -14,7 +14,7 @@
 
 We have encryption algorithms and cipher text.
 
-A little edit, we can generate input as string (length = 10, characters: 0-9,a-z (1-256 ASCII)).
+A little edit, we can generate input as string (length = 10, characters: 0-9,a-z (1-255 ASCII)).
 Then encrypt and compare with cipher text.
 
 Source: [solve.py](solve.py)
