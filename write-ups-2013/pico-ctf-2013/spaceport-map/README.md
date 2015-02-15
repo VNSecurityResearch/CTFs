@@ -14,7 +14,7 @@ spaceportmap.gif is a animated image (will include some other frames).
 
 Use [Jeffrey's Exif Viewer Tool](http://regex.info/exif.cgi) to extract all frames of it.
 
-![info.png]
+![](info.png)
 
 We can see Animated frame #4:
 
