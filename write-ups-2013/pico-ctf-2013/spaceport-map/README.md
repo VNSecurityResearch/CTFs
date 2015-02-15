@@ -10,9 +10,21 @@
 
 ## Write-up
 
-(TODO)
+spaceportmap.gif is a animated image (will include some other frames).
 
-**Answer:** none yet
+Use [Jeffrey's Exif Viewer Tool](http://regex.info/exif.cgi) to extract all frames of it.
+
+![info.png]
+
+We can see Animated frame #4:
+
+![frame #4](frame4.gif)
+
+```
+Key: Do passports let you fly interstellar?
+```
+
+**Answer:** Do passports let you fly interstellar
 
 ## Other write-ups and resources
 
