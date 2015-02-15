@@ -13,29 +13,15 @@
 * [First Contact](first-contact)
 * [Try Them All!](try-them-all)
 * [GETKey](getkey)
+
+## External write-ups only
+
+* none yet
+
+## Missing write-ups
+
 * [Spaceport Map](spaceport-map)
 * [Bitwise](bitwise)
 * [Yummy](yummy)
 * [Byte Code](byte-code)
 * [CFG to C](cfg-to-c)
-* [XMLOL](#)
-* [XMLOL](#)
-* [XMLOL](#)
-* [XMLOL](#)
-* [XMLOL](#)
-* [XMLOL](#)
-* [XMLOL](#)
-* [XMLOL](#)
-* [XMLOL](#)
-
-## External write-ups only
-
-* [Chal 1](#)
-* [Chal 2](#)
-* [Chal 3](#)
-
-## Missing write-ups
-
-* [Chal 1](#)
-* [Chal 2](#)
-* [Chal 3](#)
