@@ -22,6 +22,7 @@
 * [Client-Side is the Best Side: 75](client-side-is-the-best-side)
 * [Trivial: 45](trivial)
 * [DDoS Detection: 85](ddos-detection)
+* [RSA: 70](rsa)
 
 ## External write-ups only
 
@@ -29,7 +30,6 @@
 
 ## Missing write-ups
 
-* [RSA: 70](rsa)
 * [Injection: 110](injection)
 * [Spamcarver: 70](#)
 * [NAVSAT: 70](#)

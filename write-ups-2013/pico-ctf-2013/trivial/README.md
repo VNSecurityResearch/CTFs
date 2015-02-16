@@ -65,7 +65,7 @@ for i in range(len(plaintext)):
   ciphertext = ciphertext + chr(enc_char)
 ```
 
-Now input ciphertext replace for plaintext: "Usage: D:\Downloads\encrypt.py SECRET_KEY PLAINTEXT"
+Now input ciphertext replace for plaintext: "Usage: D:\Downloads\encrypt.py SECRET_KEY CIPHERTEXT"
 
 ```
 [...]You hawe successfully decrypwed the message! The key is th4ts_w0rs3_th4n_DES
