@@ -28,7 +28,7 @@ They were looking for something that involved to "smashing+the+stack+for+fun+and
 
 This is a magazine,the first things that we things is author, contents, ...
 
-Suprising, flag is author of magazine.
+Suprising, flag is the name of author of magazine.
 
 **Answer:** Aleph One
 
