@@ -12,9 +12,15 @@
 
 ## Write-up
 
-(TODO)
+Use tool [Autopsy](http://www.sleuthkit.org/autopsy/) > Create NewCase and import image file into it.
 
-**Answer:** none yet
+![](solve.png)
+
+```
+Key: Stars hide your fires
+```
+
+**Answer:** Stars hide your fires
 
 ## Other write-ups and resources
 

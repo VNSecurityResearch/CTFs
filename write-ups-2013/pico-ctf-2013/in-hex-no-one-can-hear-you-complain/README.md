@@ -10,9 +10,13 @@
 
 ## Write-up
 
-(TODO)
+First, we need know, the essence of Word file  is a normal ZIP file.
 
-**Answer:** none yet
+We will extract it. Flag isn't difficult to see: `\word\media\key.png`
+
+![](key.png)
+
+**Answer:** docx_why_not_docz
 
 ## Other write-ups and resources
 

@@ -40,7 +40,7 @@ $ file newfile.new
 newfile.new; JPEG image data, JFIF standard 1.01
 ```
 
-Open newfile.new as image viewer program to see flag.
+Open newfile.new with image viewer program to see flag.
 
 ![](newfile.new.jpg)
 

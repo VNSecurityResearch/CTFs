@@ -10,10 +10,16 @@
 
 ## Write-up
 
-(TODO)
+I don't solve this challenge.
 
-**Answer:** none yet
+Hint: [Steganography](http://www.garykessler.net/library/steganography.html)
+
+In other write-up. It's LSB Steganography.
+
+Source: [java](solve.java)
+
+**Answer:** st3g0_saurus_wr3cks
 
 ## Other write-ups and resources
 
-* none yet
+* <http://sturzu.org/2013/05/07/picoctf-writeup-chromatophoria-100>

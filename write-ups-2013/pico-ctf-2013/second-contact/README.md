@@ -12,9 +12,25 @@
 
 ## Write-up
 
-(TODO)
+Open file with Wireshark.
 
-**Answer:** none yet
+Quote: *They seem to be scanning the area, looking for something...*
+
+We will focus to search engine (Google, Bing, etc).
+
+When Follow TCP Stream, we see `packet 1018`:
+
+``` 
+http://www.bing.com/search?q=smashing+the+stack+for+fun+and+profit&form=MOZSBR&pc=MOZI
+```
+
+They were looking for something that involved to "smashing+the+stack+for+fun+and+profit"
+
+This is a magazine,the first things that we things is author, contents, ...
+
+Suprising, flag is author of magazine.
+
+**Answer:** Aleph One
 
 ## Other write-ups and resources
 
