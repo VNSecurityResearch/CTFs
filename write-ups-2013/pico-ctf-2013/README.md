@@ -36,14 +36,14 @@
 
 ##### Forensics
 
-* [NAVSAT: 70](#)
-* [Spamcarver: 70](#)
-* [Second Contact: 85](#)
-* [In Hex, No One Can Hear You Complain: 90](#)
-* [Chromatophoria: 100](#)
-* [Dark Star: 110](#)
-* [Black Hole: 115](#)
-* [Core Decryption: 120](#)
+* [NAVSAT: 70](navsat)
+* [Spamcarver: 70](spamcarver)
+* [Second Contact: 85](second-contact)
+* [In Hex, No One Can Hear You Complain: 90](in-hex-no-one-can-hear-you-complain)
+* [Chromatophoria: 100](chromatophoria)
+* [Dark Star: 110](dark-star)
+* [Black Hole: 115](black-hole)
+* [Core Decryption: 120](core-decryption)
 
 ##### Reverse Engineering
 
@@ -86,4 +86,4 @@
 
 ## Missing write-ups
 
-* Link to '#' is TODO.
+* **Link to `#` is TODO.**
