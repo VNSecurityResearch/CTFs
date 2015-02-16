@@ -1,6 +1,6 @@
 # PicoCTF 2013: Trivial
 
-**Category:** Trivial
+**Category:** Crypto
 **Points:** 45
 **Description:**
 
