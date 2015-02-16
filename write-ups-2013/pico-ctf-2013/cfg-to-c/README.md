@@ -5,14 +5,14 @@
 **Description:**
 
 > Wouldn't it be cool to be able to have one of these patrol drones to do your bidding?! Figure out the correct sequence of C functions from the following [control flow graphs](https://2013.picoctf.com/problems/match.html) and you should be well on your way.
+>
+> [offline file](cfg2c)
 
 ## Write-up
 
-Google keyword `ERROR: 0x00000023` for several results.
+This is check for code reading.
 
-And: `STOP 0x00000023 : FAT_FILE_SYSTEM` - a problem with file "Fastfat.sys".
-
-**Answer:** FAT
+**Answer:** BCDA
 
 ## Other write-ups and resources
 
