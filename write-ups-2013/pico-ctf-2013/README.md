@@ -26,7 +26,7 @@
 * [DDoS Detection: 85](ddos-detection)
 * [Injection: 110](injection)
 
-##### Cryptography
+##### Cryptography - TODO
 
 * [Trivial: 45](trivial)
 * [Classic: 70](#)
@@ -45,7 +45,7 @@
 * [Black Hole: 115](black-hole)
 * [Core Decryption: 120](core-decryption)
 
-##### Reverse Engineering
+##### Reverse Engineering - TODO
 
 * [avaJ: 85](#)
 * [hotcoffee: 85](#)
@@ -54,7 +54,7 @@
 * [Mildly Evil: 185](#)
 * [moreevil: 200](#)
 
-##### Binary Exploitation
+##### Binary Exploitation - TODO
 
 * [ROP 1: 95](#)
 * [ROP 2: 120](#)
@@ -68,7 +68,7 @@
 * [Overflow 4: 150](#)
 * [Overflow 5: 190](#)
 
-##### Script Exploitation
+##### Script Exploitation - TODO
 
 * [PHP2: 85](#)
 * [PHP4: 110](#)
