@@ -16,6 +16,8 @@
 * [Spaceport Map](spaceport-map)
 * [Bitwise](bitwise)
 * [Yummy](yummy)
+* [Byte Code](byte-code)
+* [CFG to C](cfg-to-c)
 
 ## External write-ups only
 
@@ -23,5 +25,4 @@
 
 ## Missing write-ups
 
-* [Byte Code](byte-code)
-* [CFG to C](cfg-to-c)
+* none yet
