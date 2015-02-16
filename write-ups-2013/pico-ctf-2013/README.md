@@ -20,6 +20,8 @@
 * [CFG to C: 70](cfg-to-c)
 * [Pilot Logic: 75](pilot-logic)
 * [Client-Side is the Best Side: 75](client-side-is-the-best-side)
+* [Trivial: 45](trivial)
+* [DDoS Detection: 85](ddos-detection)
 
 ## External write-ups only
 
@@ -27,8 +29,6 @@
 
 ## Missing write-ups
 
-* [Trivial: 45](trivial)
-* [DDoS Detection: 85](ddos-detection)
 * [RSA: 70](rsa)
 * [Injection: 110](injection)
 * [Spamcarver: 70](#)
